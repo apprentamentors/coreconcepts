@@ -10,13 +10,11 @@ Watch [this video](https://www.youtube.com/watch?v=HQdefTl64Xk)
 1. What is the difference between margin and padding? 
 2. How are margin and padding handled differently for block and inline elements? 
 
-## Exercises: Build something
-
-1. Navigation list 
+## Exercise 1: Build something (Navigation list) 
 
 Watch [this video](https://www.youtube.com/watch?v=QkJSGRqx7YI)
 
 [Starter code](ex-1.html)
 
-2. 
+
 
