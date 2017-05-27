@@ -26,3 +26,11 @@ Watch [this video](https://www.youtube.com/watch?v=HQdefTl64Xk)
 
 
 
+## Exercise 3: Calculate Space
+
+[Watch demo](https://www.youtube.com/watch?v=bz9lVH9F8Q4)
+
+[Starter code](calc-space.html)
+
+
+
