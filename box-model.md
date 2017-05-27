@@ -16,7 +16,7 @@ Watch [this video](https://www.youtube.com/watch?v=HQdefTl64Xk)
 
 Watch [this video](https://www.youtube.com/watch?v=QkJSGRqx7YI)
 
-Starter code
+[Starter code](ex-1.html)
 
 2. 
 
