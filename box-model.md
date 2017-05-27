@@ -12,9 +12,17 @@ Watch [this video](https://www.youtube.com/watch?v=HQdefTl64Xk)
 
 ## Exercise 1: Build something (Navigation list) 
 
-Watch [this video](https://www.youtube.com/watch?v=QkJSGRqx7YI)
+[Watch demo](https://www.youtube.com/watch?v=QkJSGRqx7YI)
 
 [Starter code](ex-1.html)
+
+
+
+## Exercise 2: Fix something
+
+[Watch demo](https://www.youtube.com/watch?v=Nwcv4XcpFY0)
+
+[Starter code](bug-fixing-1.html)
 
 
 
