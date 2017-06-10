@@ -1,4 +1,4 @@
-#Reading List
+# Reading List
 
 * [Headfirst Javascript](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/ref=sr_1_1?ie=UTF8&qid=1497114166&sr=8-1&keywords=Headfirst+javascript)
 * [You Don't Know JS: Scopes and Closures](https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586/ref=sr_1_1?ie=UTF8&qid=1497114008&sr=8-1&keywords=scopes+and+closures)
